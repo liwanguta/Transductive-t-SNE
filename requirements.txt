@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+psutil
+ray
+matplotlib
+notebook
+pandas
